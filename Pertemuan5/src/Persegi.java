@@ -1,8 +1,8 @@
-g/*  Nama File : Persegi.java
+/*  Nama File : Persegi.java
     Deskripsi : Berisi atribut dan method dalam class Persegi
     Pembuat : Mohammad Sulthon Ariefin
-    Tanggal : 12 Mar 2026 */
-public class Persegi extends BangunDatar {
+    Tanggal : 26 Mar 2026 */
+public class Persegi extends BangunDatar implements IResize {
   /* Atribut */
   private double sisi;
 
@@ -53,7 +53,19 @@ public class Persegi extends BangunDatar {
     System.out.println("Sisi: " + sisi);
   }
 
-  /* Methode Hiding */
+  public void zoomIn() {
+    sisi *= 1.1;
+  }
+
+  public void zoomOut() {
+    sisi *= 0.9;
+  }
+
+  public void zoom(int percent) {
+    sisi = sisi * percent / 100.0;
+  }
+
+  /* Method Hiding */
   // @Override
   // public void printCounterBangunDatar() {
   //   super.printCounterBangunDatar();
