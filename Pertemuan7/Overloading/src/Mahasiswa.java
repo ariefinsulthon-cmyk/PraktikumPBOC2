@@ -1,3 +1,8 @@
+/* File : Mahasiswa.java
+  Deskripsi : Kelas Mahasiswa untuk implementasi Overloading
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
+
 public class Mahasiswa {
   private String Nim;
   private String Nama;

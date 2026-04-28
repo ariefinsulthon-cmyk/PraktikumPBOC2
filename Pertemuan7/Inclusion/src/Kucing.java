@@ -1,3 +1,8 @@
+/* File : Kucing.java
+  Deskripsi : Kelas Kucing untuk implementasi Inclusion
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
+
 public class Kucing extends Anabul {
   public Kucing(){
     super("");

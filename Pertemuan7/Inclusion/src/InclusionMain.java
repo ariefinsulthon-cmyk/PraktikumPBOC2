@@ -1,4 +1,8 @@
 import java.util.ArrayList;
+/* File : InclusionMain.java
+  Deskripsi : Program implementasi Inclusion
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
 
 public class InclusionMain {
     public static void main(String[] args) throws Exception {

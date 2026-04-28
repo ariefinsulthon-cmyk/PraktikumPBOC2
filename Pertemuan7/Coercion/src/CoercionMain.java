@@ -1,3 +1,8 @@
+/* File : Concercion.java
+  Deskripsi : Program implementasi Coercion
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
+
 public class CoercionMain {
     public static void main(String[] args) {
         // Nilai Semula

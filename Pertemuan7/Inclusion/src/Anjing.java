@@ -1,3 +1,8 @@
+/* File : Anjing.java
+  Deskripsi : Kelas Anjing untuk implementasi Inclusion
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
+
 public class Anjing extends Anabul {
   public Anjing(){
     super("");

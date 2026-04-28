@@ -1,3 +1,8 @@
+/* File : Anabul.java
+  Deskripsi : Kelas Anabul untuk implementasi Inclusion
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
+
 public class Anabul {
   private String nama;
 

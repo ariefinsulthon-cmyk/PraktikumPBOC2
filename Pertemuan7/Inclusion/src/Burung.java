@@ -1,3 +1,8 @@
+/* File : Burung.java
+  Deskripsi : Kelas Burung untuk implementasi Inclusion
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 23 April 2026  */
+
 public class Burung extends Anabul {
   public Burung(){
     super("");
