@@ -1,3 +1,9 @@
+/* Nama file  : Main.java
+   Deskripsi  :berisi implementasi kelas Dosen, Mahasiswa, dan Seminar
+   pembuat : Mohammad Sulthon Ariefin/24060124130104
+   tanggal : 28 April 2026
+ */
+
 public class Main {
   public static void main(String[] args) {
     Civitasakademika D1 = new Dosen("Shifu", "3001");
