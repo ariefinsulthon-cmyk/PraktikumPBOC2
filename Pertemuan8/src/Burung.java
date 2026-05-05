@@ -1,5 +1,5 @@
 /* File : Burung.java
-  Deskripsi : Kelas Burung untuk implementasi Inclusion
+  Deskripsi : Kelas Burung untuk implementasi Generik
   Pembuat   : Mohammad Sulthon Ariefin
   Tanggal   : 23 April 2026  */
 
