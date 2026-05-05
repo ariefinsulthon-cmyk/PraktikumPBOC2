@@ -1,5 +1,5 @@
 /* File : Anjing.java
-  Deskripsi : Kelas Anjing untuk implementasi Inclusion
+  Deskripsi : Kelas Anjing untuk implementasi generik
   Pembuat   : Mohammad Sulthon Ariefin
   Tanggal   : 23 April 2026  */
 

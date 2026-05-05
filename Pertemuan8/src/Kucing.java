@@ -1,5 +1,5 @@
 /* File : Kucing.java
-  Deskripsi : Kelas Kucing untuk implementasi Inclusion
+  Deskripsi : Kelas Kucing untuk implementasi generik
   Pembuat   : Mohammad Sulthon Ariefin
   Tanggal   : 23 April 2026  */
 

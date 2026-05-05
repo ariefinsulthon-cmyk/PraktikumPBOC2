@@ -1,3 +1,7 @@
+/* File : OperatorGenerik.java
+  Deskripsi : Kelas OperatorGenerik untuk implementasi Generik
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 5 Mei 2026  */
 public class OperatorGenerik {
   public static <T> void Tukar(Datum<T> a, Datum<T> b) {
     T temp = a.getIsi();

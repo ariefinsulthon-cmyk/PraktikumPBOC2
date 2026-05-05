@@ -1,3 +1,7 @@
+/* File : Main.java
+  Deskripsi : Kelas Main untuk implementasi Generik
+  Pembuat   : Mohammad Sulthon Ariefin
+  Tanggal   : 5 Mei 2026  */
 public class Main {
 
   public static void main(String[] args) {
