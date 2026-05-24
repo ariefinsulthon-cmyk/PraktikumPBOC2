@@ -1,3 +1,7 @@
 bin/
 .vscode/
 *.class
+/Pertemuan10/nbproject/private/
+/Pertemuan10/build/
+/Logistic/nbproject/private/
+/Logistic/build/
