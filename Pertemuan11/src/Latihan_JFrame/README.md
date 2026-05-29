@@ -8,7 +8,8 @@ List merupakan collection yang dapat menyimpan data secara berurutan. Pada List,
 
 Pada contoh berikut, data **Sepatu, Sandal, Kaos kaki, Kaos, Celana, Celana** dapat muncul lebih dari satu kali.
 
-<img width="392" height="317" alt="Contoh List" src="https://github.com/user-attachments/assets/eeff7cc8-3db1-4f2e-9776-cecd851aefe4" />
+<img width="653" height="532" alt="Contoh List" src="https://github.com/user-attachments/assets/e79dbf75-b110-4371-ac28-faacb81c900f" />
+
 
 ## 2. Set
 
@@ -16,9 +17,9 @@ Set merupakan collection yang tidak memperbolehkan adanya nilai duplikat.
 
 Pada contoh berikut, jumlah data yang dimasukkan ke dalam List adalah 6 data. Namun, ketika data tersebut dimasukkan ke dalam Set, jumlah data yang tersimpan menjadi 5 karena nilai **Celana** hanya disimpan satu kali.
 
-<img width="392" height="317" alt="Contoh Set dari List" src="https://github.com/user-attachments/assets/eeff7cc8-3db1-4f2e-9776-cecd851aefe4" />
+<img width="652" height="536" alt="Contoh Set dari List" src="https://github.com/user-attachments/assets/c59ffd2b-bff5-4963-b96d-219daf8770c9" />
 
-<img width="391" height="316" alt="Hasil Set Tanpa Duplikat" src="https://github.com/user-attachments/assets/e20eebbc-069d-4ae1-99d7-ab4189a15147" />
+<img width="651" height="532" alt="Hasil Set Tanpa Duplikat" src="https://github.com/user-attachments/assets/1cbd5b65-745d-4d96-8f38-3b6fd0019f34" />
 
 ## 3. Map
 
@@ -26,4 +27,5 @@ Map merupakan collection yang menyimpan data dalam bentuk pasangan **key** dan *
 
 Setiap elemen pada Map memiliki kunci yang digunakan untuk mengakses nilainya. Pada Map, key tidak boleh duplikat. Jika terdapat key yang sama, maka value sebelumnya dapat digantikan oleh value yang baru.
 
-<img width="393" height="317" alt="Contoh Map" src="https://github.com/user-attachments/assets/bdb4ae8e-e336-4537-a9ce-06cb68817fad" />
+<img width="651" height="536" alt="Contoh Map" src="https://github.com/user-attachments/assets/3d452008-1bd6-46dd-9472-cd4fd22f18c0" />
+
